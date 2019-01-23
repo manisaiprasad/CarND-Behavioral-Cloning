@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 # Prerequisites
 
-To run this project, you need [Anaconda](https://www.anaconda.com) installed
+To run this project, you need [Anaconda](https://www.anaconda.com) installed. 
 To run simulator, you need  [Udacity provided simulator](https://github.com/udacity/self-driving-car-sim) 
 
 # Installation
@@ -38,7 +38,7 @@ You can train model agian by executing
 ```sh
 python model.py
 ```
-# Medium Artical (Learn More about project)
+# Medium Artical (Know more about this project)
 ###  If you curious, check my take on this meduim artical [here](https://medium.com/@mmanisai/use-deep-learning-to-clone-cars-driving-behavior-9c8e48a849f8).
 
 
