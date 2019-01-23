@@ -10,6 +10,10 @@ The goals / steps of this project are the following:
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around track one without leaving the road
 
+# Demo
+[![Demo of the project](https://cdn-images-1.medium.com/max/1600/1*TGobsMetK1FRFWvGBZQ92g.png)](https://youtu.be/JSOg2H-mI1o)
+
+
 # Prerequisites
 
 To run this project, you need [Anaconda](https://www.anaconda.com) installed. 
