@@ -41,6 +41,8 @@ python model.py
 # Medium Artical (Know more about this project)
 ###  If you curious, check my take on this meduim artical [here](https://medium.com/@mmanisai/use-deep-learning-to-clone-cars-driving-behavior-9c8e48a849f8).
 
+### Use writeup report to know more
+
 
 
 
