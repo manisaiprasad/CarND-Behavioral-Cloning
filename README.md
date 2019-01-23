@@ -36,7 +36,7 @@ python drive.py model.h5
 ```
 You can train model agian by executing 
 ```sh
-python drive.py model.h5
+python model.py
 ```
 # Medium Artical (Learn More about project)
 ###  If you curious, check my take on this meduim artical [here](https://medium.com/@mmanisai/use-deep-learning-to-clone-cars-driving-behavior-9c8e48a849f8).
